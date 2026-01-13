@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Akshay Kishor Gawande 👋
 
-<!--
-**akshay-gawande24/akshay-gawande24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Python, SQL & Power BI Enthusiast
 
-Here are some ideas to get you started:
+I am a results-driven Data Analyst focused on transforming raw datasets into actionable business insights. I enjoy building interactive dashboards and solving complex problems using statistical modeling and data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+### 📊 Featured Projects
+* **Netflix Analysis Dashboard:** Visualizing content trends and global viewership.
+* **House Price Prediction:** Machine learning model to forecast real estate values.
+* **OLA Bookings Analysis:** Deep dive into ride-hailing data to optimize demand.
+
+---
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE@gmail.com)
