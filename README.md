@@ -23,5 +23,5 @@ I am a results-driven Data Analyst focused on transforming raw datasets into act
 ---
 
 ### 📫 Connect with me:
-[![https://www.linkedin.com/in/akshaygawande](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
-[![27gawandeakshay@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE@gmail.com)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaygawande)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:27gawandeakshay@gmail.com)
